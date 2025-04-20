@@ -1,0 +1,18 @@
+#google {
+    color: greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.home-footer{
+    color:chartreuse ;
+}
+
+
+
+body{
+    background-image: url(". .Styles\Iyke shoes.jpg.jpg");
+    background-size: cover;
+    background-position: center;
+}
